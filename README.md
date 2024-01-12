@@ -1,3 +1,3 @@
 # FlashingColors
 
-This is just a small project I uploaded to practice using Git and Github.
+This is a small project that utilizes Javascript to change the color of the text on screen using a formula. 
